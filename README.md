@@ -14,7 +14,7 @@ Checked model performance using accuracy, sensitivity, specificity, precision, a
 
 Applied the model on validation data to test how good it works
 
-🧪 Tools & Libraries
+Tools & Libraries
 Python
 
 pandas
@@ -27,7 +27,7 @@ scikit-learn
 
 statsmodels
 
-📁 Files in This Repo
+Files in This Repo
 Solution Notebook (.ipynb) – All code and steps
 
 Report (.pdf or .docx) – Problem statement, steps, results, and conclusion
